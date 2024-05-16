@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2859",
+        "id": "forge-14.23.5.2860",
         "primary": true
       }
     ]
@@ -11,7 +11,6 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "space puzzle horror",
-  "version": "1.1",
   "author": "",
   "files": [
     {
