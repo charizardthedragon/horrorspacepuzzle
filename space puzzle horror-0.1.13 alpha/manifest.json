@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "space puzzle horror",
-  "version": "0.1.12 alpha",
+  "version": "0.1.13 alpha",
   "author": "",
   "files": [
     {
@@ -512,6 +512,11 @@
     {
       "projectID": 272515,
       "fileID": 2685984,
+      "required": true
+    },
+    {
+      "projectID": 556777,
+      "fileID": 5543551,
       "required": true
     },
     {
